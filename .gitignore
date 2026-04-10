@@ -2,5 +2,4 @@
 **/obj/
 **/.git/
 **/.idea/
-
-
+**/DS_store
